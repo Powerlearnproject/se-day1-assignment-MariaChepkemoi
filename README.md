@@ -13,7 +13,6 @@ Quality and Reliability: Software engineering practices ensure that software pro
 Scalability: Properly engineered software can scale to meet growing demands, whether in terms of users, data, or features, without compromising performance.
 Timeliness: Software engineering helps ensure that projects are completed on time by using project management techniques, such as agile methodologies, to keep development on track.
 
-
 List and briefly explain the phases of the Software Development Life Cycle.
 Planning: This initial stage involves defining the project's scope, objectives, resources, timeline, and risks. It's about understanding the problem and planning the approach.
 
