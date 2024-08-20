@@ -118,7 +118,7 @@ Responsibilities:
 
 Project Planning: Defining the project scope, objectives, timeline, and resources required. This includes creating detailed project plans, schedules, and milestones.
 Resource Management: Allocating resources effectively, including assigning tasks to team members based on their skills and availability, and managing any external resources or vendors.
-Budget Management: Monitoring the project budget to ensure that the project stays within financial constraints, and making adjustments as needed to avoid cost overruns.
+Budget Management: Monitoring the project budget to ensure that the project stays within financial constraints, and making adjustments as needed to avoid cost overruns
 Risk Management: Identifying potential risks that could impact the project’s success and developing mitigation strategies to minimize their impact.
 Communication: Serving as the main communication link between the development team, stakeholders, and clients. This includes regular status updates, meetings, and reports to keep everyone informed of progress and any issues.
 Timeline and Deadline Management: Ensuring that the project stays on track by monitoring progress against the project timeline and making adjustments as needed to meet deadlines.
