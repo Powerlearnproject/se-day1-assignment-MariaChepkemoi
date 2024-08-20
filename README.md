@@ -37,7 +37,7 @@ Testing: Rigorously checking the software for bugs, errors, and other issues to 
 
 Deployment: Releasing the software to the production environment, making it available for use. This may include installation, configuration, and user training.
 
-Maintenance: Ongoing updates and improvements after deployment, including bug fixes, updates, and adapting to changing requirements.
+Maintenance:Ongoing updates and improvements after deployment, including bug fixes, updates, and adapting to changing requirements.
 
 What is Agile?
 Agile is a methodology in software engineering that emphasizes flexibility, collaboration, and iterative development. Unlike traditional approaches like the Waterfall model, where development follows a linear and sequential process, Agile allows teams to work in small, manageable increments or iterations. Each iteration results in a potentially shippable product increment, allowing for continuous feedback and adaptation throughout the project.
